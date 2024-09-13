@@ -22,11 +22,10 @@
 }
 
 .singIn form button{
-    outline: none;
+    width: 100px;
     padding: 5px;
     color: gray;
     font-size: 17px;
     margin: 10px;
-    display: block;
-    width: 50%;
+    background-color: bisque;
 }
